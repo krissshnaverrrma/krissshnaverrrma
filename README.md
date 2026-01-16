@@ -41,15 +41,6 @@ I live by the motto: *"I choose a lazy person to do a hard job. Because a lazy p
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krissshnaverrrma&show_icons=true&theme=radical&hide_border=true" alt="Krishna's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissshnaverrrma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
