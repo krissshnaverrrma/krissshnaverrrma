@@ -28,13 +28,6 @@ Welcome to my corner of GitHub! I'm a Computer Science student based in **Hapur*
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 ![Groq Cloud](https://img.shields.io/badge/Groq%20Cloud-FF5722?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krissshnaverrrma&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krissshnaverrrma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 🚀 Featured Projects
 
@@ -53,7 +46,4 @@ Welcome to my corner of GitHub! I'm a Computer Science student based in **Hapur*
 <a href="https://www.linkedin.com/in/krishna-verma-43aa85315/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishna Verma" /></a>
 <a href="https://my-portfolio-tqqe.onrender.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:krishnav24-cs@sanskar.org"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<p align="center">
-  <img src="https://github.com/krissshnaverrrma/krissshnaverrrma/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
