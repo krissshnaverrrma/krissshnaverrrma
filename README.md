@@ -1,10 +1,10 @@
 # Hi there, I'm Krishna Verma! 👋
 
-### 👨‍💻 Student at SCET | Lazy Coder | Backend-Frontend Developer
+### ⚡ Python & AI Developer | Lazy Coder | Automating the Boring Stuff
 
-Welcome to my corner of GitHub! I'm a Computer Science student based in **Hapur**, passionate about building efficient full-stack applications, integrating AI into web tools, and occasionally game development. 
+Welcome to my corner of GitHub! I'm a Computer Science student based in **Hapur**, passionate about building efficient full-stack applications, integrating AI into web tools, and building self-healing systems.
 
-I live by the motto: *"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."*
+> *"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."*
 
 ---
 
@@ -30,14 +30,20 @@ I live by the motto: *"I choose a lazy person to do a hard job. Because a lazy p
 
 ---
 
+### 📊 GitHub Stats
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krissshnaverrrma&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krissshnaverrrma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Type-Master](https://github.com/krissshnaverrrma/Type-Master)** | A minimalist typing master powered by **Groq Cloud AI**. Features a "Perspective" layout inspired by editorial design. | `Django` `Groq AI` `Python` |
-| **[Quote-Studio-AI](https://github.com/krissshnaverrrma/Qoute-Studio-AI)** | Immersive Quote Studio web app that transforms API content into a premium content creation experience. | `Flask` `Vanilla JS` `HTML` |
-| **[Weather-APP](https://github.com/krissshnaverrrma/Weather-APP)** | A high-performance, single-screen weather station aggregating Air Quality and critical environmental data. | `CSS` `JS` `API` |
-| **[My-Portfolio](https://github.com/krissshnaverrrma/My-Portfolio)** | A showcase of my technical evolution, featuring a custom AI chatbot and my journey from "Hello World" to Full Stack. | `HTML` `CSS` `Flask` |
+| **[My-Portfolio](https://github.com/krissshnaverrrma/My-Portfolio)** | 🤖 **AI-Powered.** A RAG-based Virtual Assistant that handles recruiters for me (Gemini 2.5). | `Flask` `Gemini` `HTML` |
+| **[Type-Master](https://github.com/krissshnaverrrma/Type-Master)** | ⚡ **Groq Powered.** A minimalist typing master with AI-generated text and editorial design. | `Django` `Groq` `Python` |
+| **[Quote-Studio-AI](https://github.com/krissshnaverrrma/Qoute-Studio-AI)** | 🎨 **Content Creation.** Immersive studio that transforms API content into premium visuals. | `Flask` `JS` `HTML` |
+| **[Weather-APP](https://github.com/krissshnaverrrma/Weather-APP)** | 🌦️ **Live Data.** High-performance weather station aggregating global Air Quality data. | `CSS` `JS` `API` |
 
 ---
 
@@ -45,7 +51,6 @@ I live by the motto: *"I choose a lazy person to do a hard job. Because a lazy p
 
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna-verma-43aa85315/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishna Verma" /></a>
-<a href="https://leetcode.com/u/krissshnaverrrma/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="krissshnaverrrma" /></a>
 <a href="https://my-portfolio-tqqe.onrender.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:krishna24-cs@sanskar.org"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:krishnav24-cs@sanskar.org"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
